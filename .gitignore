@@ -1,3 +1,5 @@
 /target/
 .settings
 *.jar
+.classpath
+.project
